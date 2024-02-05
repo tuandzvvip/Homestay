@@ -1,0 +1,32 @@
+.about{
+    margin: 100px 100px 50px 100px;
+}
+.abouttotal{
+    display: flex;
+
+}
+.img2{
+    width: 600px;
+    height: 400px;
+    margin-right: 50px;
+}
+.pabout{
+    font-family: serif;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+    padding-top: 12px;
+}
+.buttonAbout{
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: bisque;
+    padding: 5px 15px 8px 15px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.buttonAbout:hover{
+    background-color: rgb(62, 126, 182);
+    color: aliceblue;
+}

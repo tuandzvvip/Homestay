@@ -1,0 +1,32 @@
+.Footer{
+    background-color: black;
+    color: aliceblue;
+
+}
+.contentFooter{
+    padding-top: 100px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    font-family: Joseph sans-serif;
+}
+.photoFooter{
+    justify-content: space-between;
+    display: flex;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.iconFooter{
+    justify-content: space-between;
+    align-items: center;
+    font-size: 70px;
+}
+.overcontentFooter{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: smaller;
+    margin-bottom: 0;
+
+}

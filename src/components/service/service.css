@@ -1,0 +1,45 @@
+.title-holder{
+    text-align: center;
+
+}
+.title{
+    margin: 0 0 5px;
+    text-transform: uppercase;
+    
+}
+.subtitle{
+    color:  #999;
+}
+
+.iconservice{
+    color: rgb(240, 109, 16);
+    font-size: x-large;
+}
+.holder.col-sm-4{
+    padding-left: 20px;
+    width: 400px;
+    height: 200px;
+}
+.holder.col-sm-4:hover{
+    position: relative;
+    top: 50%;
+    transform: translateY(-15%);
+    line-height: 2;
+    transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    
+}
+.row{
+    display: flex;
+    margin: 20px 100px 20px 125px;
+}
+.about-block .progress-bar {
+    background-color: #f64b4b;
+    -webkit-transition: width 0.3s linear;
+    transition: width 0.3s linear;
+  }
+  .services-block .holder:hover .icon {
+    box-shadow: inset 0 0 0 30px #f64b4b;
+    color: #fff;
+    font-size: 18px;
+  }

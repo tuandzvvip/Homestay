@@ -1,0 +1,58 @@
+#header .navbar-brand {
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+    height: auto;
+    line-height: 1.6;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+a.navbar-brand{
+    margin-right: 200px;
+}
+a.nav-link{
+    display: flex;
+    padding: 20px 10px 20px 20px;
+    margin-right: 20px;
+}
+a.nav-link:hover{
+    color: aquamarine;
+    border-radius: 30px;
+    
+}
+.button{
+    display: flex;
+    padding: 10px 20px 5px 20px;
+    background-color: rgb(60, 173, 173);
+    border-radius: 50px;
+    border: none;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    font-family: JoseFin sans-serif;
+    margin-left: 50px;
+    
+}
+.button:hover{
+    background-color: brown;
+
+}
+
+div.container{
+    display: flex;
+    margin-bottom: 5px;
+    padding-bottom: 0;
+
+}
+
+
+.fixed-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1000;
+}
